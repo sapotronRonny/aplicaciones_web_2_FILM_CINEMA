@@ -22,6 +22,7 @@ class cconexion {
 
 // cunado yo la vi
 // Obtener la conexión a la base de datos
+
 $conn = cconexion::conecciondb();
 
 try {
